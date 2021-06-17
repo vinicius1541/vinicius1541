@@ -1,6 +1,6 @@
 ### Hey, what's up?
-
-- 🎓 I graduated in System Analysis (ADS - Analise e Desenvolvimento de Sistemas in Portuguese)
+My name is Vinicius Bernardo
+- 🎓 I'm graduated in System Analysis (ADS - Analise e Desenvolvimento de Sistemas in Portuguese)
 - 👨‍💻 I started my journay as Junior Developer (backend) at vintepila.com
 - 📚 I'm currently learning C, JavaScript and Dart(for app development with Flutter)
 - 🗨️ Sharing my knowledge and tips on Instagram
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius1541&layout=compact&langs_count=16&theme=tokyonight"/>
 <div>
   
-### Reach me out :point_down:
+### You can reach me out there :point_down:
 
 <a href="https://instagram.com/vinicius.coding" target="_blank"><img width="150px" src="https://github.com/biancames/biancames/blob/8a5e1142f5ff740ff91842910f716293ae099da6/insta.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-bernardo-83900a183/" target="_blank"><img width="150px" src="https://github.com/biancames/biancames/blob/237fac07eae223059f9a76c40c1c8805b303d890/linkedin.png" target="_blank"></a>
