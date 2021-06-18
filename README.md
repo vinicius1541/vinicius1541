@@ -4,6 +4,8 @@ My name is Vinicius Bernardo
 - 👨‍💻 I started my journay as Junior Developer (backend) at vintepila.com
 - 📚 I'm currently learning C, JavaScript and Dart(for app development with Flutter)
 - 🗨️ Sharing my knowledge and tips on Instagram
+- ⚙ Tools: VSCODE, PHPStorm, GitHub and Git.
+- 💡 Most used languages: C, PHP, JS, CSS, HTML, Dart.
 - 🌎 From Curitiba/PR - Brazil
 
 
@@ -15,9 +17,16 @@ My name is Vinicius Bernardo
   
 ### You can reach me out there :point_down:
 
-<a href="https://instagram.com/vinicius.coding" target="_blank"><img width="150px" src="https://github.com/biancames/biancames/blob/8a5e1142f5ff740ff91842910f716293ae099da6/insta.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-bernardo-83900a183/" target="_blank"><img width="150px" src="https://github.com/biancames/biancames/blob/237fac07eae223059f9a76c40c1c8805b303d890/linkedin.png" target="_blank"></a>
-  <a href="mailto:vinicius-bernado2011@hotmail.com" target="_blank"><img width="150px" src="https://github.com/biancames/biancames/blob/8a5e1142f5ff740ff91842910f716293ae099da6/gmail.png" target="_blank"></a>
+<p align="left">
+  <a href="mailto:vinicius-bernado2011@hotmail.com" alt="Email">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/vinicius-bernardo-83900a183/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+
+  <a href="https://instagram.com/vinicius.coding" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+</p>   
   
 
   
