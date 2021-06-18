@@ -5,7 +5,7 @@ My name is Vinicius Bernardo
 - 📚 I'm currently learning C, JavaScript and Dart(for app development with Flutter)
 - 🗨️ Sharing my knowledge and tips on Instagram
 - ⚙ Tools: VSCODE, PHPStorm, GitHub and Git.
-- 💡 Most used languages: C, PHP, JS, CSS, HTML, Dart.
+- 💡 Skills: C, PHP, JS, CSS, HTML, Dart, Wordpress development, Semantic UI (like bootstrap).
 - 🌎 From Curitiba/PR - Brazil
 
 
