@@ -2,7 +2,7 @@
 My name is Vinicius Bernardo
 - 🎓 I'm graduated in System Analysis (ADS - Analise e Desenvolvimento de Sistemas in Portuguese)
 - 👨‍💻 I started my journay as Junior Developer (backend) at vintepila.com
-- 📚 I'm currently learning C, JavaScript and Dart(for app development with Flutter)
+- 📚 I'm currently learning more PHP and JavaScript
 - 🗨️ Sharing my knowledge and tips on Instagram
 - ⚙ Tools: VSCODE, PHPStorm, GitHub and Git.
 - 💡 Skills: C, PHP, JS, CSS, HTML, Dart, Wordpress development, Semantic UI (like bootstrap).
