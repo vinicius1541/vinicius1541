@@ -21,7 +21,7 @@ My name is Vinicius Bernardo
   <a href="mailto:vinicius-bernado2011@hotmail.com" alt="Email">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
-  <a href="https://www.linkedin.com/in/vinicius-bernardo-83900a183/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/vinicius1541/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
   <a href="https://instagram.com/vinicius.coding" alt="Instagram">
