@@ -1,7 +1,7 @@
 ### Hey, what's up?
 My name is Vinicius Bernardo
 - 🎓 I'm graduated in System Analysis (ADS - Analise e Desenvolvimento de Sistemas in Portuguese)
-- 👨‍💻 I started my journay as Junior Developer (backend) at vintepila.com
+- 👨‍💻 I started my journay as Junior Developer (backend)
 - 📚 I'm currently learning more PHP and JavaScript
 - 🗨️ Sharing my knowledge and tips on Instagram
 - ⚙ Tools: VSCODE, PHPStorm, GitHub and Git.
