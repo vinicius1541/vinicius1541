@@ -2,10 +2,9 @@
 My name is Vinicius Bernardo
 - 🎓 I'm graduated in System Analysis (ADS - Analise e Desenvolvimento de Sistemas in Portuguese)
 - 👨‍💻 I started my journay as Junior Developer (backend)
-- 📚 I'm currently learning more PHP and JavaScript
-- 🗨️ Sharing my knowledge and tips on Instagram
+- 📚 I'm currently learning NodeJS, ReactJS and Symfony
 - ⚙ Tools: VSCODE, PHPStorm, GitHub and Git.
-- 💡 Skills: C, PHP, JS, CSS, HTML, Dart, Wordpress development, Semantic UI (like bootstrap).
+- 💡 Skills: PHP, Symfony, Laravel, JQuery, Web Services, Python, Java, JS, Postgresql and Mysql, etc 
 - 🌎 From Curitiba/PR - Brazil
 
 
